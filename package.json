@@ -49,7 +49,7 @@
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
     "copy-webpack-plugin": "^5.0.4",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-as-jsx-loader": "^1.0.79",
     "raw-loader": "^3.1.0",
     "react": "*",
